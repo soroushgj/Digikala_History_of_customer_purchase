@@ -11,7 +11,6 @@
 
 <br/>
 
-
 <p align="center">
 <img src="https://github.com/soroushgj/Digikala_History_of_customer_purchase/blob/main/images/hour.JPG" width="70%">
 </p>
