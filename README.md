@@ -5,18 +5,7 @@
 - شلوغ ترین روزهای هفته
 -  دسته بندی مشتریان
 <br/>
-<p align="center">
-<img src="https://github.com/soroushgj/Digikala_History_of_customer_purchase/blob/main/images/dens.JPG" width="80%">
-</p>
 
-<br/>
-
-
-<p align="center">
-<img src="https://github.com/soroushgj/Digikala_History_of_customer_purchase/blob/main/images/Capture.JPG" width="80%">
-</p>
-
-<br/>
 
 دیتای 8 روزه را نمیتوان با نهایت اطمینان تحلیل کرد چرا که نمونه بسیار کوچکی از دوره ای بلند مدت است، اما میتوان ایده های کلی از این اطلاعات پیدا کرد. به صورت کلی آنچه میتوان انتظار داشت، تحلیل هایی در خصوص رفتارهای کلی و عمومی مشتریان است که توسط آن ها تکرار شده است
 
@@ -24,7 +13,22 @@
 
 
 <p align="center">
-<img src="https://github.com/soroushgj/Digikala_History_of_customer_purchase/blob/main/images/hour.JPG" width="80%">
+<img src="https://github.com/soroushgj/Digikala_History_of_customer_purchase/blob/main/images/hour.JPG" width="60%" height="20%">
+</p>
+
+<br/>
+
+
+<p align="center">
+<img src="https://github.com/soroushgj/Digikala_History_of_customer_purchase/blob/main/images/Capture.JPG" width="60%">
+</p>
+
+<br/>
+
+
+
+<p align="center">
+<img src="https://github.com/soroushgj/Digikala_History_of_customer_purchase/blob/main/images/.JPG" width="60%">
 </p>
 
 <br/>
