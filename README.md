@@ -13,14 +13,14 @@
 
 
 <p align="center">
-<img src="https://github.com/soroushgj/Digikala_History_of_customer_purchase/blob/main/images/hour.JPG" width="60%" height="20%">
+<img src="https://github.com/soroushgj/Digikala_History_of_customer_purchase/blob/main/images/hour.JPG" width="70%">
 </p>
 
 <br/>
 
 
 <p align="center">
-<img src="https://github.com/soroushgj/Digikala_History_of_customer_purchase/blob/main/images/Capture.JPG" width="60%">
+<img src="https://github.com/soroushgj/Digikala_History_of_customer_purchase/blob/main/images/Capture.JPG" width="70%">
 </p>
 
 <br/>
@@ -28,7 +28,7 @@
 
 
 <p align="center">
-<img src="https://github.com/soroushgj/Digikala_History_of_customer_purchase/blob/main/images/.JPG" width="60%">
+<img src="https://github.com/soroushgj/Digikala_History_of_customer_purchase/blob/main/images/dens.JPG" width="70%">
 </p>
 
 <br/>
